@@ -10,7 +10,7 @@ const projects = [
     subtitle: "Global Intelligence Engine",
     description: "AI dashboard that converts any query into visual reports with real-time data analysis and intelligent insights.",
     tech: ["Python", "FastAPI", "Gemini", "Next.js"],
-    liveUrl: "https://omni-frontend-376461558194.asia-south1.run.app",
+    liveUrl: "https://omni-izjq.vercel.app/",
     githubUrl: "https://github.com/hina-ali651",
     featured: true,
     color: "#C9A489",
